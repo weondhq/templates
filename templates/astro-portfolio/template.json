@@ -1,0 +1,15 @@
+{
+  "slug": "astro-portfolio",
+  "name": "Astro Portfolio",
+  "category": "frontend",
+  "framework": "Astro",
+  "runtime": "static",
+  "tagline": "Zero-JS static portfolio & writing site built with Astro",
+  "description": "Fast, content-focused Astro 5 starter ideal for personal sites, portfolios, and documentation.",
+  "installCommand": "npm install",
+  "buildCommand": "npm run build",
+  "outputDir": "dist",
+  "tags": ["Astro", "Static", "Portfolio"],
+  "recommendedPlugins": ["resend"],
+  "envVars": []
+}

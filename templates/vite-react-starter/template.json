@@ -1,0 +1,15 @@
+{
+  "slug": "vite-react-starter",
+  "name": "Vite + React Starter",
+  "category": "frontend",
+  "framework": "Vite",
+  "runtime": "static",
+  "tagline": "Fast React 19 + TypeScript SPA powered by Vite",
+  "description": "Minimal, production-ready Vite + React + TypeScript starter with zero-config edge deployment on Weond.",
+  "installCommand": "npm install",
+  "buildCommand": "npm run build",
+  "outputDir": "dist",
+  "tags": ["Vite", "React", "TypeScript"],
+  "recommendedPlugins": ["supabase", "sentry"],
+  "envVars": []
+}

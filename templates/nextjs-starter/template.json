@@ -1,0 +1,15 @@
+{
+  "slug": "nextjs-starter",
+  "name": "Next.js App Starter",
+  "category": "fullstack",
+  "framework": "Next.js",
+  "runtime": "static",
+  "tagline": "Next.js 15 App Router with static export & TypeScript",
+  "description": "Clean Next.js App Router starter preconfigured for fast static edge delivery on Weond.",
+  "installCommand": "npm install",
+  "buildCommand": "npm run build",
+  "outputDir": "out",
+  "tags": ["Next.js", "React", "TypeScript"],
+  "recommendedPlugins": ["supabase", "upstash-redis", "resend"],
+  "envVars": []
+}

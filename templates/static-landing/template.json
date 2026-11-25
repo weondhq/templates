@@ -1,0 +1,15 @@
+{
+  "slug": "static-landing",
+  "name": "Static Edge Landing",
+  "category": "static",
+  "framework": "Static HTML",
+  "runtime": "static",
+  "tagline": "Zero-build HTML, CSS & JS landing page for instant edge deploys",
+  "description": "Ultra-lightweight static site with zero dependencies and instant sub-second deploys on Weond.",
+  "installCommand": "",
+  "buildCommand": "",
+  "outputDir": ".",
+  "tags": ["HTML", "CSS", "Zero-Build"],
+  "recommendedPlugins": [],
+  "envVars": []
+}
